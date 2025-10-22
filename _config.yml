@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Weidannie
+title: 魏旦聂 | Weidannie | Daniel Villegas
 
 # Your name to show in the footer
 author: Daniel Villegas
@@ -20,11 +20,10 @@ author: Daniel Villegas
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mí"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -102,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "weidannie.com"
+# url-pretty: "weidannie.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
