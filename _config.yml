@@ -20,7 +20,7 @@ author: Daniel Villegas
 ###############################################
 
 navbar-links:
-  About Me: "Sobre mí"
+  Sobre mí: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
